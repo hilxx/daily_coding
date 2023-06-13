@@ -1,0 +1,14 @@
+.App{
+  width:1000px;
+  margin: 50px auto;
+  background-color: #f7cac9;
+  border-radius: 20px;
+  box-shadow: 0 0 5ps rgba(0,0,0,0.5);
+  padding: 10px 20px;
+}
+.header{
+  text-align: end;
+  color: #92a8d1;
+  font-size: 15px;
+  font-weight:500;
+}
