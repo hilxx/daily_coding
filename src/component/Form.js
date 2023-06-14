@@ -10,5 +10,4 @@ const Form = ({uValue, addInput, addTodo}) => {
         </div>
     )
 }
-
 export default Form;
