@@ -1,0 +1,19 @@
+.form{
+    display:flex;
+    gap:20px;
+}
+.form input {
+    line-height: 30px;
+    flex:1;
+    border-radius: 30px;
+    border: none;
+}
+.form button {
+    display:block;
+    background: #92a8d1;
+    border:none;
+    color:white;
+    padding: 10px 20px;
+    border-radius: 30px;
+    cursor: pointer;
+}

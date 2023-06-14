@@ -1,0 +1,21 @@
+.todoItem{
+    display:flex;
+    gap:20px;
+    color:#333;
+    line-height:2;
+    border-bottom: 1px solid #eee;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+.todoItem>span{
+    color: #92a8d1;
+    opacity:0;
+}
+.todoItem:hover>span{
+    opacity:1;
+}
+.todoItem>div{}
+.todoItem>.checked{
+    text-decoration: line-through;
+    color:#eee;
+}
